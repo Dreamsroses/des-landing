@@ -1,0 +1,48 @@
+.main {
+    background-image: url(../img/backround.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 380px;
+    padding: 15px 70px;
+}
+
+.logo_gub {
+    width: 10%;
+}
+
+.main_title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main_paragraph {
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+footer p {
+    color: antiquewhite;
+    text-align: center;
+    background-color: black;
+    padding: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+td {
+    width: 50%;
+}
+
+table {
+    margin: 5% 25%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.audifonos,
+.control,
+.relojes {
+    width: 100%;
+}
+
+table p {
+    padding: 0 40px;
+}
